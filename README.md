@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a collection of HTML templates used for ActiveCampaign email broadcasts that have already been distributed.
+This repository contains a collection of screenshots of successful past email campaigns, as well as HTML templates used for ActiveCampaign email broadcasts with outstanding performance records.
 
 ## Purpose
 
